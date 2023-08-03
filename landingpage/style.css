@@ -1,0 +1,14 @@
+/* estilos barra de navegacion */
+.nav-color{
+     background-color: white;
+     box-shadow: 1px 1px 5px 1px #ccc;
+}
+.color_dropdown{
+    background-color: #4caf4f;
+    border-radius: 5px;
+}
+
+.color_dropdown:hover{
+     background-color: #17c21ddc;
+     border-radius: 5px;
+}
